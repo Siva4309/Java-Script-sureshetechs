@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.section {
+  font-weight: bold;
+  font-size: 20px;
+  color: green;
+  border-bottom: 3px solid rgb(66, 194, 66);
+}
+.section-content {
+  margin: 10px 0px;
+  display: block;
+}
+.language-chip {
+  background-color: green;
+  padding: 5px;
+  display: inline-block;
+  border-radius: 20px;
+  margin: 10px 10px 20px 0px;
+  color: white;
+}
+button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: rgb(72, 192, 72);
+}

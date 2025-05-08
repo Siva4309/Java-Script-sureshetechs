@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 20px;
+}
+.homepage-container {
+  max-width: 800px;
+  margin: auto;
+  background-color: rgb(80, 90, 33);
+  padding: 20px;
+}
+.centerText {
+  text-align: center;
+}
+.whiteText {
+  color: white;
+}
+.font20px {
+  font-size: 20px;
+}
+.font30px {
+  font-size: 30px;
+}
+.font120px {
+  font-size: 120px;
+}
+.opcityHalf {
+  opacity: 0.2;
+}
+
+.primaryButton {
+  background: none;
+  background-color: rgb(7, 29, 153);
+  padding: 10px 20px;
+  cursor: pointer;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  margin: 10px 5px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.primaryButton:hover {
+  background-color: rgb(6, 122, 126);
+}
+li {
+  list-style-position: inside;
+}
+
+.margin10px {
+  margin: 10px;
+}
